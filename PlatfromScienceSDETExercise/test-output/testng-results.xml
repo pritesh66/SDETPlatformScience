@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-24T20:19:26Z" name="Default suite" finished-at="2021-07-24T20:19:26Z" duration-ms="42">
+    <groups>
+    </groups>
+    <test started-at="2021-07-24T20:19:26Z" name="Default test" finished-at="2021-07-24T20:19:26Z" duration-ms="42">
+      <class name="gemini.project.testcases.RoombaTestCases">
+        <test-method signature="test404ResponseCode()[pri:0, instance:gemini.project.testcases.RoombaTestCases@42210be1]" started-at="2021-07-24T15:19:26Z" name="test404ResponseCode" finished-at="2021-07-24T15:19:26Z" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test404ResponseCode -->
+      </class> <!-- gemini.project.testcases.RoombaTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
